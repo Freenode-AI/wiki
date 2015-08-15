@@ -1,8 +1,8 @@
 # <a name="h.p3zhedncid35"></a>Freenode #AI Wiki
 
-Welcome to the Freenode #AI wiki. The goal of this wiki is to centralized all the information related to discussing artificial intelligence on the #AI channel.
+Welcome to the Freenode #AI wiki. The goal of this wiki is to centralize all the information related to discussing artificial intelligence on the #AI channel.
 
-It (will) contains:
+It (will) contains:
 
 - a Getting Started guide for beginners
 - a list of Suggested papers to read (and possibly reviews)

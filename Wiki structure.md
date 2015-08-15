@@ -40,18 +40,6 @@
 
 [Procedural Memory: Organizing Sequential Logic](#h.6mh45gn2gs3f)
 
-[Works of fiction](#h.1mgbjii81qd)
-
-[Books](#h.9pryh45wgxfl)
-
-[TV series](#h.rqjk307x0qut)
-
-[Movies](#h.bo86nln2gxji)
-
-[Video games](#h.es2r9r20usqi)
-
-[Sources](#h.4fjz9udo94qd)
-
 [News/Forum groups](#h.83t3yc935u7e)
 
 [Uncategorized](#h.wxbc5f97tez3)
@@ -61,8 +49,6 @@
 [Unsorted](#h.t5amy0yms18t)
 
 [Selection of Articles from Citations in Asher’s Dissertation](#h.8bjjhdujyj49)
-
-[Structure of articles](#h.ponum0xqk2tc)
 
 - - - - - -
 
@@ -203,54 +189,6 @@ The form of memory must be capable of composing identities of encapsulation that
 ### <a name="h.6mh45gn2gs3f"></a>Procedural Memory: Organizing Sequential Logic
 
 The form of memory must be capable of composing branching sequences of logical expression that determine which branch to associate based on procedural determinations as the logic is carried out.
-
-## <a name="h.1mgbjii81qd"></a>Works of fiction
-
-### <a name="h.9pryh45wgxfl"></a>Books
-
-- Permutation City
-- Manna
-
-### <a name="h.rqjk307x0qut"></a>TV series
-
-- Caprica
-- Ghost in the shell
-- Intelligence
-- Almost Human
-- Person of interest
-
-### <a name="h.bo86nln2gxji"></a>Movies
-
-- The Matrix
-- Chappie
-- Ex machina
-- Transcendence
-- A space odyssey
-- Automata
-- Terminator
-- I, Robot
-- Blade Runner
-- A.I. Artificial Intelligence
-- The Hitchhiker's Guide to the Galaxy
-- Bicentennial Man
-- The Machine
-- Her
-- Tron
-- Demon Seed
-- Debug
-- Prometheus
-
-### <a name="h.es2r9r20usqi"></a>Video games
-
-- Portal
-- Deus Ex
-- Mass Effect
-
-### <a name="h.4fjz9udo94qd"></a>Sources
-
-[https://en.wikipedia.org/wiki/Artificial_intelligence_in_fiction](https://www.google.com/url?q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FArtificial_intelligence_in_fiction&sa=D&sntz=1&usg=AFQjCNEYunroeE7tsTHyExM_AIkkTb5yLQ)
-
-https://en.wikipedia.org/wiki/List_of_artificial_intelligence_films
 
 ## <a name="h.83t3yc935u7e"></a>News/Forum groups
 
@@ -420,9 +358,3 @@ Harnad, Stevan, and Peter Scherzer. “First, Scale Up to the Robotic Turing Tes
 Harnad, Stevan. “Can a Machine Be Conscious? How?.” Journal of Consciousness Studies 10.4 (2003): 72-73. Heidegger, Martin. Die Technik und die Kehre. Klett-Cotta; Auflage: 13., Aufl. 2014.
 
 Penrose, Roger, Stuart Hameroff. “Consciousness in the universe A review of the ‘Orch OR’ theory”. Physics of Life Reviews Volume 11, Issue 1, March 2014.
-
-# <a name="h.ponum0xqk2tc"></a>Structure of articles
-
-- Prerequisites
-- Overview
-- Related articles
