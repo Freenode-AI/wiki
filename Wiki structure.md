@@ -222,6 +222,20 @@ Artificial intelligence in games
 
 Simulated reality
 
+Information theory
+
+Measure theory
+
+Semiotics
+
+Semiotic information theory
+
+Tensor
+
+Markov chains
+
+Markov processes
+
 Computational implementations of:
 
 - Sensory Perception, the processing of input data according to patterns of significant detail.
