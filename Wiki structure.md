@@ -119,10 +119,10 @@
 
 ## <a name="h.he4thosd80tw"></a>Current projects
 
-- [Genifer](https://code.google.com/p/genifer/)
-- [OpenNARS](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fopennars%2Fopennars&sa=D&sntz=1&usg=AFQjCNFiktF9lWwTGf3LJLpoD1q0WqIWBQ)
-- [NuPIC](http://www.google.com/url?q=http%3A%2F%2Fnumenta.org%2F&sa=D&sntz=1&usg=AFQjCNHnJbow6GV3TA_2ruk34ljI0TEw8g)
-- [OpenCog](http://www.google.com/url?q=http%3A%2F%2Fopencog.org%2F&sa=D&sntz=1&usg=AFQjCNFbrsifyXapHnBcPzV8WcBmSRErFg)
+- [Genifer](https://www.google.com/url?q=https://code.google.com/p/genifer/&sa=D&usg=AFQjCNEoUqOySI1aZIJg6rO4hLHORQjGjw)
+- [OpenNARS](https://www.google.com/url?q=https://github.com/opennars/opennars&sa=D&usg=AFQjCNGbn-5LYCRUmaUDozIHQ0evVyC7zQ)
+- [NuPIC](https://www.google.com/url?q=http://numenta.org/&sa=D&usg=AFQjCNFHNAzbAn6-6vJjxzH2ZThJqzuHBg)
+- [OpenCog](https://www.google.com/url?q=http://opencog.org/&sa=D&usg=AFQjCNFVfeoY3ByqFwMUeGV_nfaVHur7pw)
 
 ## <a name="h.6bzmgkdre3n2"></a>Applications
 
@@ -136,7 +136,7 @@
 
 ## <a name="h.svzso9cet9su"></a>Researchers and their current point of view/theories
 
-[https://sites.google.com/site/narswang/home/agi-introduction#TOC-Representative-AGI-Projects](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2Fnarswang%2Fhome%2Fagi-introduction%23TOC-Representative-AGI-Projects&sa=D&sntz=1&usg=AFQjCNFldlLZ8d5CZozG1D9-giy6_sKhDw)
+[https://sites.google.com/site/narswang/home/agi-introduction#TOC-Representative-AGI-Projects](https://www.google.com/url?q=https://sites.google.com/site/narswang/home/agi-introduction%23TOC-Representative-AGI-Projects&sa=D&usg=AFQjCNHulVpEMjZa0PiFLXCUQXrFbKkuuA)
 
 ## <a name="h.j6b7m62a3xl2"></a>Goals
 
@@ -313,9 +313,9 @@ AGI Books:
 
 # <a name="h.8bjjhdujyj49"></a>Selection of Articles from Citations in Asher’s Dissertation
 
-Barsalou, Lawrence W, Giovanni Pezzulo, Angelo Cangelosi, Martin H. Fischer, Ken McRae and Michael J. Spivey. “Computational Grounded Cognition: a new alliance between grounded cognition and computational modeling”. [http://psychology.emory.edu/cognition/barsalou/papers/Pezzulo_et_al-Frontiers_Psych_2013-grounded_computation.pdf](http://www.google.com/url?q=http%3A%2F%2Fpsychology.emory.edu%2Fcognition%2Fbarsalou%2Fpapers%2FPezzulo_et_al-Frontiers_Psych_2013-grounded_computation.pdf&sa=D&sntz=1&usg=AFQjCNH3PtrxnyVRAv1Nh5BZfyFwCRpmQg)
+Barsalou, Lawrence W, Giovanni Pezzulo, Angelo Cangelosi, Martin H. Fischer, Ken McRae and Michael J. Spivey. “Computational Grounded Cognition: a new alliance between grounded cognition and computational modeling”. [http://psychology.emory.edu/cognition/barsalou/papers/Pezzulo_et_al-Frontiers_Psych_2013-grounded_computation.pdf](https://www.google.com/url?q=http://psychology.emory.edu/cognition/barsalou/papers/Pezzulo_et_al-Frontiers_Psych_2013-grounded_computation.pdf&sa=D&usg=AFQjCNF5hXTyAWe73m371-UKyQHu3QYLuA)
 
-Bogost, Ian. “The Great Pretender: Turing as a Philosopher of Imitation”. The Atlantic (2012), [http://www.theatlantic.com/technology/archive/2012/07/the-great-pretender-turing-as-a-philosopher-of-imitation/259824/](http://www.google.com/url?q=http%3A%2F%2Fwww.theatlantic.com%2Ftechnology%2Farchive%2F2012%2F07%2Fthe-great-pretender-turing-as-a-philosopher-of-imitation%2F259824%2F&sa=D&sntz=1&usg=AFQjCNEBgoGHLing3N8E9p-gDNdg7LJe6g)
+Bogost, Ian. “The Great Pretender: Turing as a Philosopher of Imitation”. The Atlantic (2012), [http://www.theatlantic.com/technology/archive/2012/07/the-great-pretender-turing-as-a-philosopher-of-imitation/259824/](https://www.google.com/url?q=http://www.theatlantic.com/technology/archive/2012/07/the-great-pretender-turing-as-a-philosopher-of-imitation/259824/&sa=D&usg=AFQjCNFN_gkcmQAVbpDscVehXa5G6yVXQw)
 
 Bombardi, Ron. “The Education of Searle’s Demon”. Idealistic Studies 23.1. 1993.
 
