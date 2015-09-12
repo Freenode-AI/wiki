@@ -266,7 +266,7 @@ Critical theory developed as a field in response to the relationship the Nazi, F
 
 It was understood that philosophy had to be transformed into something other than the contemplation of the good.
 
-In particular, philosophy now how to confront the problem that morality can create a state of exception wherein it assumes power by suspending itself. The question of responsibility by way of the Nazi and Fascist projects raised a new spectre: what animates the masses?
+In particular, philosophy now had to confront the problem that morality can create a state of exception wherein it assumes power by suspending itself. The question of responsibility by way of the Nazi and Fascist projects raised a new spectre: what animates the masses?
 
 Critical theory developed as an extra-disciplinary approach to considering this problem: the problem of agency, understood as the conditions of social enervation. The agent was now to be understood as the locus of exchange between its singular investment and its opening to untold potential.
 
