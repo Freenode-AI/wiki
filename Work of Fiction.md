@@ -42,6 +42,6 @@
 
 ## <a id="h.4fjz9udo94qd" name="h.4fjz9udo94qd"></a>Sources
 
-[https://en.wikipedia.org/wiki/Artificial_intelligence_in_fiction](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Artificial_intelligence_in_fiction&sa=D&ust=1452556814254000&usg=AFQjCNFuFsuewQDEwkKjyXb52I3l9rRsKg)
+[https://en.wikipedia.org/wiki/Artificial_intelligence_in_fiction](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Artificial_intelligence_in_fiction&sa=D&ust=1452643215212000&usg=AFQjCNFVouzBx83yrxjaqItaXvjuHIkB7g)
 
 https://en.wikipedia.org/wiki/List_of_artificial_intelligence_films
