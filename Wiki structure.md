@@ -119,10 +119,10 @@
 
 ## <a id="h.he4thosd80tw" name="h.he4thosd80tw"></a>Current projects
 
-- [Genifer](https://www.google.com/url?q=https://code.google.com/p/genifer/&sa=D&ust=1452816011611000&usg=AFQjCNFG8GAsAgUMThWnJo7HnkEg8I1Z1A)
-- [OpenNARS](https://www.google.com/url?q=https://github.com/opennars/opennars&sa=D&ust=1452816011612000&usg=AFQjCNG4mYBgUB724d4xVVhMiDn91r-icg)
-- [NuPIC](https://www.google.com/url?q=http://numenta.org/&sa=D&ust=1452816011612000&usg=AFQjCNHcZFYCRgTSiReYtmUtqXmzy_kKtg)
-- [OpenCog](https://www.google.com/url?q=http://opencog.org/&sa=D&ust=1452816011613000&usg=AFQjCNFyXxwWZAL0NDtEOt3nKCONUERISQ)
+- [Genifer](https://www.google.com/url?q=https://code.google.com/p/genifer/&sa=D&ust=1452902408992000&usg=AFQjCNEcD8tgWNimZCXnYQh4OPxaYNMM5A)
+- [OpenNARS](https://www.google.com/url?q=https://github.com/opennars/opennars&sa=D&ust=1452902408992000&usg=AFQjCNHHe6YVxg-Z2_E-c0gdonC3t8fy5A)
+- [NuPIC](https://www.google.com/url?q=http://numenta.org/&sa=D&ust=1452902408993000&usg=AFQjCNGkhKiYaEGO7lFK0i6KTyfpNWDJNA)
+- [OpenCog](https://www.google.com/url?q=http://opencog.org/&sa=D&ust=1452902408994000&usg=AFQjCNEuqtCWSmNds6kVLPirACwxa0gcqw)
 
 ## <a id="h.6bzmgkdre3n2" name="h.6bzmgkdre3n2"></a>Applications
 
@@ -136,7 +136,7 @@
 
 ## <a id="h.svzso9cet9su" name="h.svzso9cet9su"></a>Researchers and their current point of view/theories
 
-[https://sites.google.com/site/narswang/home/agi-introduction#TOC-Representative-AGI-Projects](https://www.google.com/url?q=https://sites.google.com/site/narswang/home/agi-introduction%23TOC-Representative-AGI-Projects&sa=D&ust=1452816011615000&usg=AFQjCNFkC66iOCpaMdj6mS4NKquroRwFEA)
+[https://sites.google.com/site/narswang/home/agi-introduction#TOC-Representative-AGI-Projects](https://www.google.com/url?q=https://sites.google.com/site/narswang/home/agi-introduction%23TOC-Representative-AGI-Projects&sa=D&ust=1452902408998000&usg=AFQjCNEA_cW_C7ANuZeGtd6BTHKcPbF8Kg)
 
 ## <a id="h.j6b7m62a3xl2" name="h.j6b7m62a3xl2"></a>Goals
 
@@ -313,9 +313,9 @@ AGI Books:
 
 # <a id="h.8bjjhdujyj49" name="h.8bjjhdujyj49"></a>Selection of Articles from Citations in Asher’s Dissertation
 
-Barsalou, Lawrence W, Giovanni Pezzulo, Angelo Cangelosi, Martin H. Fischer, Ken McRae and Michael J. Spivey. “Computational Grounded Cognition: a new alliance between grounded cognition and computational modeling”. [http://psychology.emory.edu/cognition/barsalou/papers/Pezzulo_et_al-Frontiers_Psych_2013-grounded_computation.pdf](https://www.google.com/url?q=http://psychology.emory.edu/cognition/barsalou/papers/Pezzulo_et_al-Frontiers_Psych_2013-grounded_computation.pdf&sa=D&ust=1452816011643000&usg=AFQjCNE1bMS-VaqHPr8yQb7NXRD0LDXaVw)
+Barsalou, Lawrence W, Giovanni Pezzulo, Angelo Cangelosi, Martin H. Fischer, Ken McRae and Michael J. Spivey. “Computational Grounded Cognition: a new alliance between grounded cognition and computational modeling”. [http://psychology.emory.edu/cognition/barsalou/papers/Pezzulo_et_al-Frontiers_Psych_2013-grounded_computation.pdf](https://www.google.com/url?q=http://psychology.emory.edu/cognition/barsalou/papers/Pezzulo_et_al-Frontiers_Psych_2013-grounded_computation.pdf&sa=D&ust=1452902409035000&usg=AFQjCNFZ9jZTaqsfi2ygOx_BPQnj7u9oWg)
 
-Bogost, Ian. “The Great Pretender: Turing as a Philosopher of Imitation”. The Atlantic (2012), [http://www.theatlantic.com/technology/archive/2012/07/the-great-pretender-turing-as-a-philosopher-of-imitation/259824/](https://www.google.com/url?q=http://www.theatlantic.com/technology/archive/2012/07/the-great-pretender-turing-as-a-philosopher-of-imitation/259824/&sa=D&ust=1452816011644000&usg=AFQjCNHRqaK4xf4uKrNCZdg5LRGxioY-6g)
+Bogost, Ian. “The Great Pretender: Turing as a Philosopher of Imitation”. The Atlantic (2012), [http://www.theatlantic.com/technology/archive/2012/07/the-great-pretender-turing-as-a-philosopher-of-imitation/259824/](https://www.google.com/url?q=http://www.theatlantic.com/technology/archive/2012/07/the-great-pretender-turing-as-a-philosopher-of-imitation/259824/&sa=D&ust=1452902409037000&usg=AFQjCNFg4x2c24lQBawSfeCpx4-T23q47A)
 
 Bombardi, Ron. “The Education of Searle’s Demon”. Idealistic Studies 23.1. 1993.
 
