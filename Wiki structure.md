@@ -52,9 +52,9 @@
 
 - - - - - -
 
-# <a id="h.gkpxq5pjia8b" name="h.gkpxq5pjia8b"></a>Structure
+# <a id="h.gkpxq5pjia8b"></a>Structure
 
-## <a id="h.r2xj4hofve8" name="h.r2xj4hofve8"></a>Domains
+## <a id="h.r2xj4hofve8"></a>Domains
 
 - Machine Learning
 - Artificial General Intelligence
@@ -65,7 +65,7 @@
 - Intelligence
 - Knowledge representation
 
-## <a id="h.dnydn76pq3ow" name="h.dnydn76pq3ow"></a>Theories / Current research
+## <a id="h.dnydn76pq3ow"></a>Theories / Current research
 
 - OpenCog - semantic mapping
 - AIXI - environment as bayesian anchor
@@ -78,13 +78,13 @@
 - Reinforcement learning
 - Entropy/Affect/Negentropy
 
-## <a id="h.gv16df8iaiga" name="h.gv16df8iaiga"></a>AGI Intelligence tests
+## <a id="h.gv16df8iaiga"></a>AGI Intelligence tests
 
 - Turing Test (and derivatives)
 - Imitation Game
 - Chinese Room
 
-## <a id="h.lxlpq4pocjqs" name="h.lxlpq4pocjqs"></a>ML Intelligence tests
+## <a id="h.lxlpq4pocjqs"></a>ML Intelligence tests
 
 - Compression test
 - Linguistic complexity
@@ -94,21 +94,21 @@
 - C-Test
 - Smith’s Test
 
-## <a id="h.x6o011b7t3te" name="h.x6o011b7t3te"></a>Historical
+## <a id="h.x6o011b7t3te"></a>Historical
 
 - Turing
 - Cybernetics
 
-## <a id="h.zc6labfke4nm" name="h.zc6labfke4nm"></a>Intelligence definitions
+## <a id="h.zc6labfke4nm"></a>Intelligence definitions
 
-## <a id="h.ldbt04le16io" name="h.ldbt04le16io"></a>Machine learning
+## <a id="h.ldbt04le16io"></a>Machine learning
 
 - Supervised learning
 - Unsupervised learning
 - Semi-supervised learning
 - Deep learning
 
-## <a id="h.tr2m2fa7yu9n" name="h.tr2m2fa7yu9n"></a>Glossary
+## <a id="h.tr2m2fa7yu9n"></a>Glossary
 
 - Recording surface
 - Syntax/Syntactic
@@ -117,14 +117,14 @@
 - Weak AI
 - Entropy(disorder)/Negentropy(order)
 
-## <a id="h.he4thosd80tw" name="h.he4thosd80tw"></a>Current projects
+## <a id="h.he4thosd80tw"></a>Current projects
 
 - [Genifer](https://code.google.com/p/genifer/)
 - [OpenNARS](https://github.com/opennars/opennars)
 - [NuPIC](http://numenta.org/)
 - [OpenCog](http://opencog.org/)
 
-## <a id="h.6bzmgkdre3n2" name="h.6bzmgkdre3n2"></a>Applications
+## <a id="h.6bzmgkdre3n2"></a>Applications
 
 - Computer vision
 - Face recognition
@@ -134,11 +134,11 @@
 - Voice recognition
 - Entity fingerprinting
 
-## <a id="h.svzso9cet9su" name="h.svzso9cet9su"></a>Researchers and their current point of view/theories
+## <a id="h.svzso9cet9su"></a>Researchers and their current point of view/theories
 
 [https://sites.google.com/site/narswang/home/agi-introduction#TOC-Representative-AGI-Projects](https://sites.google.com/site/narswang/home/agi-introduction#TOC-Representative-AGI-Projects)
 
-## <a id="h.j6b7m62a3xl2" name="h.j6b7m62a3xl2"></a>Goals
+## <a id="h.j6b7m62a3xl2"></a>Goals
 
 - Deduction
 - Reasoning
@@ -148,7 +148,7 @@
 - Perception
 - Motion
 
-## <a id="h.qem7maztnd3" name="h.qem7maztnd3"></a>Tools
+## <a id="h.qem7maztnd3"></a>Tools
 
 - Search
 - Optimization
@@ -159,7 +159,7 @@
 - Control theory
 - Languages
 
-## <a id="h.6bnl213rv4se" name="h.6bnl213rv4se"></a>Approaches
+## <a id="h.6bnl213rv4se"></a>Approaches
 
 - Cybernetics/Brain simulation
 - Symbolic
@@ -167,34 +167,34 @@
 - Statistical
 - Integration of the approaches
 
-## <a id="h.c7v41yj6zuj0" name="h.c7v41yj6zuj0"></a>Current
+## <a id="h.c7v41yj6zuj0"></a>Current
 
 - Competitions
 - Prices
 - Platforms
 - Libraries
 
-## <a id="h.du05sgoybidy" name="h.du05sgoybidy"></a>Cognition
+## <a id="h.du05sgoybidy"></a>Cognition
 
-## <a id="h.kf75hjusc7s6" name="h.kf75hjusc7s6"></a>Memory
+## <a id="h.kf75hjusc7s6"></a>Memory
 
-### <a id="h.j95g1tmo959c" name="h.j95g1tmo959c"></a>Semantic Memory: Mapping Consistency to Language
+### <a id="h.j95g1tmo959c"></a>Semantic Memory: Mapping Consistency to Language
 
 The form of memory must be capable of composing identities in a network of relations, of relating identities in order to map consistencies in one context to terms in another, and of arbitrarily associating and differentiating identities.
 
-### <a id="h.uyou99c4b9qs" name="h.uyou99c4b9qs"></a>Episodic Memory: Encapsulating Space-Time
+### <a id="h.uyou99c4b9qs"></a>Episodic Memory: Encapsulating Space-Time
 
 The form of memory must be capable of composing identities of encapsulation that distinguish one informal context from another in order to determine which formal treatments might be considered contextually appropriate.
 
-### <a id="h.6mh45gn2gs3f" name="h.6mh45gn2gs3f"></a>Procedural Memory: Organizing Sequential Logic
+### <a id="h.6mh45gn2gs3f"></a>Procedural Memory: Organizing Sequential Logic
 
 The form of memory must be capable of composing branching sequences of logical expression that determine which branch to associate based on procedural determinations as the logic is carried out.
 
-## <a id="h.83t3yc935u7e" name="h.83t3yc935u7e"></a>News/Forum groups
+## <a id="h.83t3yc935u7e"></a>News/Forum groups
 
 https://groups.google.com/forum/#!forum/artificial-general-intelligence
 
-## <a id="h.wxbc5f97tez3" name="h.wxbc5f97tez3"></a>Uncategorized
+## <a id="h.wxbc5f97tez3"></a>Uncategorized
 
 Deep neural networks
 
@@ -253,7 +253,7 @@ Resulting in fundamental features that permit the development of interactive age
 
 - - - - - -
 
-# <a id="h.f12aw1n0lylm" name="h.f12aw1n0lylm"></a>AGI Through “Critical Theory”
+# <a id="h.f12aw1n0lylm"></a>AGI Through “Critical Theory”
 
 Critical theory is a specific domain of philosophical, literary, and psychoanalytic work.
 
@@ -306,12 +306,12 @@ AGI Books:
 - Deleuze, The Fold
 - Deleuze and Guattari, What is Philosophy?
 
-## <a id="h.t5amy0yms18t" name="h.t5amy0yms18t"></a>Unsorted
+## <a id="h.t5amy0yms18t"></a>Unsorted
 
 - On Intelligence, Jeff Hawkins
 - 
 
-# <a id="h.8bjjhdujyj49" name="h.8bjjhdujyj49"></a>Selection of Articles from Citations in Asher’s Dissertation
+# <a id="h.8bjjhdujyj49"></a>Selection of Articles from Citations in Asher’s Dissertation
 
 Barsalou, Lawrence W, Giovanni Pezzulo, Angelo Cangelosi, Martin H. Fischer, Ken McRae and Michael J. Spivey. “Computational Grounded Cognition: a new alliance between grounded cognition and computational modeling”. [http://psychology.emory.edu/cognition/barsalou/papers/Pezzulo_et_al-Frontiers_Psych_2013-grounded_computation.pdf](http://psychology.emory.edu/cognition/barsalou/papers/Pezzulo_et_al-Frontiers_Psych_2013-grounded_computation.pdf)
 
