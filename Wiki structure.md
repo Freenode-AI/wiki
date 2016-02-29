@@ -52,9 +52,9 @@
 
 - - - - - -
 
-# <a id="h.gkpxq5pjia8b"></a>Structure
+# Structure
 
-## <a id="h.r2xj4hofve8"></a>Domains
+## Domains
 
 - Machine Learning
 - Artificial General Intelligence
@@ -65,7 +65,7 @@
 - Intelligence
 - Knowledge representation
 
-## <a id="h.dnydn76pq3ow"></a>Theories / Current research
+## Theories / Current research
 
 - OpenCog - semantic mapping
 - AIXI - environment as bayesian anchor
@@ -78,13 +78,13 @@
 - Reinforcement learning
 - Entropy/Affect/Negentropy
 
-## <a id="h.gv16df8iaiga"></a>AGI Intelligence tests
+## AGI Intelligence tests
 
 - Turing Test (and derivatives)
 - Imitation Game
 - Chinese Room
 
-## <a id="h.lxlpq4pocjqs"></a>ML Intelligence tests
+## ML Intelligence tests
 
 - Compression test
 - Linguistic complexity
@@ -94,21 +94,21 @@
 - C-Test
 - Smith’s Test
 
-## <a id="h.x6o011b7t3te"></a>Historical
+## Historical
 
 - Turing
 - Cybernetics
 
-## <a id="h.zc6labfke4nm"></a>Intelligence definitions
+## Intelligence definitions
 
-## <a id="h.ldbt04le16io"></a>Machine learning
+## Machine learning
 
 - Supervised learning
 - Unsupervised learning
 - Semi-supervised learning
 - Deep learning
 
-## <a id="h.tr2m2fa7yu9n"></a>Glossary
+## Glossary
 
 - Recording surface
 - Syntax/Syntactic
@@ -117,14 +117,14 @@
 - Weak AI
 - Entropy(disorder)/Negentropy(order)
 
-## <a id="h.he4thosd80tw"></a>Current projects
+## Current projects
 
 - [Genifer](https://code.google.com/p/genifer/)
 - [OpenNARS](https://github.com/opennars/opennars)
 - [NuPIC](http://numenta.org/)
 - [OpenCog](http://opencog.org/)
 
-## <a id="h.6bzmgkdre3n2"></a>Applications
+## Applications
 
 - Computer vision
 - Face recognition
@@ -134,11 +134,11 @@
 - Voice recognition
 - Entity fingerprinting
 
-## <a id="h.svzso9cet9su"></a>Researchers and their current point of view/theories
+## Researchers and their current point of view/theories
 
 [https://sites.google.com/site/narswang/home/agi-introduction#TOC-Representative-AGI-Projects](https://sites.google.com/site/narswang/home/agi-introduction#TOC-Representative-AGI-Projects)
 
-## <a id="h.j6b7m62a3xl2"></a>Goals
+## Goals
 
 - Deduction
 - Reasoning
@@ -148,7 +148,7 @@
 - Perception
 - Motion
 
-## <a id="h.qem7maztnd3"></a>Tools
+## Tools
 
 - Search
 - Optimization
@@ -159,7 +159,7 @@
 - Control theory
 - Languages
 
-## <a id="h.6bnl213rv4se"></a>Approaches
+## Approaches
 
 - Cybernetics/Brain simulation
 - Symbolic
@@ -167,34 +167,34 @@
 - Statistical
 - Integration of the approaches
 
-## <a id="h.c7v41yj6zuj0"></a>Current
+## Current
 
 - Competitions
 - Prices
 - Platforms
 - Libraries
 
-## <a id="h.du05sgoybidy"></a>Cognition
+## Cognition
 
-## <a id="h.kf75hjusc7s6"></a>Memory
+## Memory
 
-### <a id="h.j95g1tmo959c"></a>Semantic Memory: Mapping Consistency to Language
+### Semantic Memory: Mapping Consistency to Language
 
 The form of memory must be capable of composing identities in a network of relations, of relating identities in order to map consistencies in one context to terms in another, and of arbitrarily associating and differentiating identities.
 
-### <a id="h.uyou99c4b9qs"></a>Episodic Memory: Encapsulating Space-Time
+### Episodic Memory: Encapsulating Space-Time
 
 The form of memory must be capable of composing identities of encapsulation that distinguish one informal context from another in order to determine which formal treatments might be considered contextually appropriate.
 
-### <a id="h.6mh45gn2gs3f"></a>Procedural Memory: Organizing Sequential Logic
+### Procedural Memory: Organizing Sequential Logic
 
 The form of memory must be capable of composing branching sequences of logical expression that determine which branch to associate based on procedural determinations as the logic is carried out.
 
-## <a id="h.83t3yc935u7e"></a>News/Forum groups
+## News/Forum groups
 
 https://groups.google.com/forum/#!forum/artificial-general-intelligence
 
-## <a id="h.wxbc5f97tez3"></a>Uncategorized
+## Uncategorized
 
 Deep neural networks
 
@@ -253,7 +253,7 @@ Resulting in fundamental features that permit the development of interactive age
 
 - - - - - -
 
-# <a id="h.f12aw1n0lylm"></a>AGI Through “Critical Theory”
+# AGI Through “Critical Theory”
 
 Critical theory is a specific domain of philosophical, literary, and psychoanalytic work.
 
@@ -306,12 +306,12 @@ AGI Books:
 - Deleuze, The Fold
 - Deleuze and Guattari, What is Philosophy?
 
-## <a id="h.t5amy0yms18t"></a>Unsorted
+## Unsorted
 
 - On Intelligence, Jeff Hawkins
 - 
 
-# <a id="h.8bjjhdujyj49"></a>Selection of Articles from Citations in Asher’s Dissertation
+# Selection of Articles from Citations in Asher’s Dissertation
 
 Barsalou, Lawrence W, Giovanni Pezzulo, Angelo Cangelosi, Martin H. Fischer, Ken McRae and Michael J. Spivey. “Computational Grounded Cognition: a new alliance between grounded cognition and computational modeling”. [http://psychology.emory.edu/cognition/barsalou/papers/Pezzulo_et_al-Frontiers_Psych_2013-grounded_computation.pdf](http://psychology.emory.edu/cognition/barsalou/papers/Pezzulo_et_al-Frontiers_Psych_2013-grounded_computation.pdf)
 

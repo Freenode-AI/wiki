@@ -1,10 +1,10 @@
-# <a id="h.8ta6vj72nywb"></a>Contributing to Freenode #AI Wiki
+# Contributing to Freenode #AI Wiki
 
 For the moment, the Wiki is a set of Google Docs that can be edited by anyone with the permissions.
 
 If you are interested in contributing to the Freenode #AI wiki, please let your interest be known on #ai and someone with the permission will add you to the list of editors.
 
-## <a id="h.vt7xl9xpkgu9"></a>Structure of articles
+## Structure of articles
 
 In order to keep articles concise, we attempt to follow a specific structure that should allow readers to understand the topic even if it means starting from scratch.
 
