@@ -22,4 +22,8 @@ irc://chat.freenode.net:6667/ channel #ai
 
 ## Newsgroup
 
-https://groups.google.com/forum/#!forum/artificial-general-intelligence
+[https://groups.google.com/forum/#!forum/artificial-general-intelligence](https://groups.google.com/forum/#!forum/artificial-general-intelligence)
+
+## List of resources
+
+[https://github.com/owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)

@@ -17,3 +17,9 @@ That is up to you. The recommended majors are:
 - Math
 - Computer Science
 - Software engineering
+
+# What are the suggested approaches to the topic?
+
+- Ben Goertzel - [http://wp.goertzel.org/agi-curriculum/](http://wp.goertzel.org/agi-curriculum/)
+- Marcus Hutter - [http://www.hutter1.net/ai/introref.htm](http://www.hutter1.net/ai/introref.htm)
+- Pei Wang - [https://sites.google.com/site/narswang/home/agi-introduction/agi-education](https://sites.google.com/site/narswang/home/agi-introduction/agi-education)
