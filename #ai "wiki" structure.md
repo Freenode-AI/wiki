@@ -311,7 +311,7 @@ AGI Books:
 - On Intelligence, Jeff Hawkins
 - 
 
-# Selection of Articles from Citations in Asher’s Dissertation
+# Selection of Articles[[a]](#cmnt1) from Citations in Asher’s Dissertation
 
 Barsalou, Lawrence W, Giovanni Pezzulo, Angelo Cangelosi, Martin H. Fischer, Ken McRae and Michael J. Spivey. “Computational Grounded Cognition: a new alliance between grounded cognition and computational modeling”. [http://psychology.emory.edu/cognition/barsalou/papers/Pezzulo_et_al-Frontiers_Psych_2013-grounded_computation.pdf](http://psychology.emory.edu/cognition/barsalou/papers/Pezzulo_et_al-Frontiers_Psych_2013-grounded_computation.pdf)
 
@@ -372,3 +372,5 @@ Harnad, Stevan, and Peter Scherzer. “First, Scale Up to the Robotic Turing Tes
 Harnad, Stevan. “Can a Machine Be Conscious? How?.” Journal of Consciousness Studies 10.4 (2003): 72-73. Heidegger, Martin. Die Technik und die Kehre. Klett-Cotta; Auflage: 13., Aufl. 2014.
 
 Penrose, Roger, Stuart Hameroff. “Consciousness in the universe A review of the ‘Orch OR’ theory”. Physics of Life Reviews Volume 11, Issue 1, March 2014.
+
+[[a]](#cmnt_ref1)I should have copies of all these that i can dig up and we can link in.
