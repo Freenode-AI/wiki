@@ -1,4 +1,4 @@
-# Artificial Intelligence: A Modern ApproachWorks of fiction
+# Works of fiction
 
 ## Books/Short stories
 
