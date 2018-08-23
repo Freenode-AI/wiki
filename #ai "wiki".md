@@ -2,7 +2,7 @@
 
 Welcome to the Freenode #AI wiki. The goal of this wiki is to centralize all the information related to discussing artificial intelligence on the #AI channel.
 
-It (will) contains:
+It (will) contain(s):
 
 - a [Getting Started guide](http://drive.google.com/open?id=12Gte-I7c8KhZgMTHbWGd4gh5ASzjvJ67zdOwGGiczQU) for beginners
 - a list of [Suggested papers](http://drive.google.com/open?id=1NC8qjbm9F9Xzm05IErbBZKzL7H7XyCEhW4r9yuUeN78) to read (and possibly reviews)
