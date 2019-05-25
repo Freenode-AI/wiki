@@ -15,6 +15,7 @@
 - Almost Human [IMDB](http://www.imdb.com/title/tt2654580/) / [Wikipedia](https://en.wikipedia.org/wiki/Almost_Human_(TV_series))
 - Person of interest [IMDB](http://www.imdb.com/title/tt1839578/) / [Wikipedia](https://en.wikipedia.org/wiki/Person_of_Interest_(TV_series))
 - Odyssey 5 [IMDB](http://www.imdb.com/title/tt0318236) / [Wikipedia](https://en.wikipedia.org/wiki/Odyssey_5)
+- Serial Experiments Lain [IMDB](https://www.imdb.com/title/tt0500092/) / [Wikipedia](https://en.wikipedia.org/wiki/Serial_Experiments_Lain)
 
 ## Movies
 
@@ -42,6 +43,7 @@
 - Portal
 - Deus Ex
 - Mass Effect
+- Serial Experiments Lain
 
 ## Sources
 
