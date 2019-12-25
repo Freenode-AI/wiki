@@ -1,6 +1,6 @@
 # Works of fiction
 
-## Booksd/Short stories
+## Books/Short stories
 
 - [Crystal Nights](http://ttapress.com/553/crystal-nights-by-greg-egan/) - Greg Egan
 - Manna - Marshall Brain
