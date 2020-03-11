@@ -6,7 +6,7 @@
 
 ## Machine learning
 
-- MaInichine learning [[Coursera](https://www.coursera.org/learn/machine-learning)][[No registration](https://class.coursera.org/ml-003/lecture)]
+- Machine learning [[Coursera](https://www.coursera.org/learn/machine-learning)][[No registration](https://class.coursera.org/ml-003/lecture)]
 - 2008 - Stanford Machine learning [[Youtube](https://www.youtube.com/view_play_list?p=A89DCFA6ADACE599)]
 
 ## Natural language processing
